@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **sayanmanda1922001@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EeXq0usEN1AW1QLhoa_Q_jemT5mcvGqW/view](https://drive.google.com/file/d/1EeXq0usEN1AW1QLhoa_Q_jemT5mcvGqW/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1EeXq0usEN1AW1QLhoa_Q_jemT5mcvGqW/view](https://drive.google.com/file/d/1cc4RgZEVs-DR-k5J31Mqgyu7K7Cardc2/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
