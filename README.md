@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React.js, Firebase**
 
-- 👨‍💻 All of my projects are available at [https://sayan-dev.netlify.app/](https://sayan-dev.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://my-data-indol.vercel.app/](https://my-data-indol.vercel.app/)
 
 - 💬 Ask me about **react, mongodb, Firebase**
 
@@ -34,8 +34,8 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/@sayan"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="@sayan" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanmanda&show_icons=true&locale=en&layout=compact" alt="sayanmanda" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sayanfrontdev&show_icons=true&locale=en&layout=compact" alt="sayanfrontdev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanmanda&show_icons=true&locale=en" alt="sayanmanda" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sayanfrontdev&show_icons=true&locale=en" alt="sayanfrontdev" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanmanda&" alt="sayanmanda" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sayanfrontdev&" alt="sayanfrontdev" /></p>
